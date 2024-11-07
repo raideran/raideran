@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Bienvenido a mi perfil de GitHub
 
-<!--
-**raideran/raideran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola, soy Jose Porras (raideran en el mundo del desarrollo y videojuegos). Aquí encontrarás mis proyectos destacados, mis habilidades y mucho más sobre mí.
 
-Here are some ideas to get you started:
+## 🚀 Acerca de mí
+Soy un desarrollador apasionado por la tecnología y la innovación. Me encanta crear soluciones dinámicas y optimizadas para cualquier tipo de desafío.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Habilidades
+- Lenguajes de programación: <br>
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  
+- Frameworks:<br>
+  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+  
+- Bases de datos: MySQL, PostgreSQL <br>
+	![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+## 📊 Mis estadísticas de GitHub
+<details> 
+  <summary><b>💻 Estadísticas</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/raideran/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=raideran&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raideran&show_icons=true&locale=en&layout=compact&theme=algolia" alt="raidearn" height="192px"/>
+  <br/>
+  </p>
+</details>
+
+---
+
+## 📫 Contáctame
+- [LinkedIn](https://www.linkedin.com/in/jose-andres-porras-solano-56a81922/?originalSubdomain=cr)
+- [Correo electrónico](mailto:japslatino@gmail.com)
+
+¡Gracias por visitar mi perfil!
