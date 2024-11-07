@@ -1,4 +1,5 @@
 # 👋 Bienvenido a mi perfil de GitHub
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Faculty+Glyphic&duration=4995&pause=1000&color=1E0F73&width=435&lines=No+existen+las+coincidencias%2C+solo+el+destino)](https://git.io/typing-svg)
 
 Hola, soy Jose Porras (raideran en el mundo del desarrollo y videojuegos). Aquí encontrarás mis proyectos destacados, mis habilidades y mucho más sobre mí.
 
